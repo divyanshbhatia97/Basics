@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.Web", "Basics.Web\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.EntityFramework", "Basics.EntityFramework\Basics.EntityFramework.csproj", "{4BFF665B-F2DA-4B52-A156-33CD23D290D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.Repository", "Basics.Repository\Basics.Repository.csproj", "{6F2A6AA4-720F-4B1E-A7FC-D605D723D7F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.Services", "Basics.Services\Basics.Services.csproj", "{229D9EE5-C93D-4474-91B1-7D49EE726B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4BFF665B-F2DA-4B52-A156-33CD23D290D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BFF665B-F2DA-4B52-A156-33CD23D290D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BFF665B-F2DA-4B52-A156-33CD23D290D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2A6AA4-720F-4B1E-A7FC-D605D723D7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2A6AA4-720F-4B1E-A7FC-D605D723D7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2A6AA4-720F-4B1E-A7FC-D605D723D7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2A6AA4-720F-4B1E-A7FC-D605D723D7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229D9EE5-C93D-4474-91B1-7D49EE726B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229D9EE5-C93D-4474-91B1-7D49EE726B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229D9EE5-C93D-4474-91B1-7D49EE726B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229D9EE5-C93D-4474-91B1-7D49EE726B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
